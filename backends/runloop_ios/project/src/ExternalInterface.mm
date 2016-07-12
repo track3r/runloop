@@ -29,8 +29,7 @@
 #endif
 
 #include <hx/CFFI.h>
-#include <map>
-using std::map;
+
 #import "DUELLAppDelegate.h"
 
 value *__onExecutorCallback = NULL;
